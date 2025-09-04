@@ -8,7 +8,7 @@
 </div>
 <!--About Me-->
 <h2 id="-about-me"><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About me</h2>
-<p><picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture></p>
+<p><picture> <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Z4NzRxMmwwdWo4djZ4ZHR0eXBjbzRycXliZjdrbmhzbTg5NXRybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="400px"></picture></p>
 <ul>
 <li>I'am student of System of Information at UFSM</li>
 </ul>
