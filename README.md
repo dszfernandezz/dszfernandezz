@@ -4,7 +4,7 @@
 <div id="user-content-toc">
   <ul align="left">
     <summary><h1 style="display: inline-block">Hi, I'm Pedro</h1></summary>
-    <p><picture> <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Z4NzRxMmwwdWo4djZ4ZHR0eXBjbzRycXliZjdrbmhzbTg5NXRybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="400px"></picture></p>
+    <p><picture> <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Z4NzRxMmwwdWo4djZ4ZHR0eXBjbzRycXliZjdrbmhzbTg5NXRybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="300px"></picture></p>
   </ul>
 </div>
 <!--About Me-->
