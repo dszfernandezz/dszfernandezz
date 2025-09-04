@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <p><picture> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpxcWFpOTN0NjB6ZGd1MGl0dGc5MmJkZXUzdXRoY2E5cnE4YTNwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif"></picture></p>
+  <p><picture> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpxcWFpOTN0NjB6ZGd1MGl0dGc5MmJkZXUzdXRoY2E5cnE4YTNwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="700px"></picture></p>
   <ul align="left">
     <summary><h1 style="display: inline-block">Hi, I'm Pedro</h1></summary>
   </ul>
