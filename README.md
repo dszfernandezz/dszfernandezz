@@ -35,32 +35,3 @@
 <p><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&amp;logo=Windows&amp;logoColor=white" alt="Windows">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&amp;logo=Ubuntu&amp;logoColor=white" alt="Ubuntu"></p>
 <br>
-<h2 id="----github-stats"><picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px">  </picture> Github Stats</h2>
-<!--- stats & Trophy (start) -->
-<p align="left">
-  <!--- stats (start) -->
-</p>
-<table align="left">
-<tbody><tr border="none">
-<td width="50%" align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ElioChiu&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
-  <br><br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChiu&amp;theme=dark&amp;hide_border=false"> 
-</td><td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ElioChiu&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=7">
-  </td>
-</tr>
-</tbody></table>
-<!--- stats (end) -->
-<p></p>        
-<!--- stats (end) -->
-<br>
-<!--profile visit count-->
-<div align="center">
-<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ElioChiu&amp;label=Profile%20Views&amp;color=1&amp;pretty=false" alt=""></a></p>
-</div>
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<hr>
-<p>Credit: <a href="https://github.com/ElioChiu">ElioChiu</a></p>
-<p>Last Edited on: 10/7/2023</p> 
